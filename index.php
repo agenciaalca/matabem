@@ -236,6 +236,61 @@
     </div>
 </section>
 
+<section class="slice light-gray bb">
+    <div class="wp-section">
+        <div class="container">
+            <div class="section-title-wr mb-40">
+                <h3 class="section-title left">
+                    <span>Clientes</span>
+                    <small>Conhe&ccedil;a nossos clientes.</small>
+                </h3>
+            </div>
+
+            <div class="row">
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="wp-block inverse text-center">
+                        <div class="thmb-img">
+                            <img src="images/clients/brain.png" alt="" class="cliente">
+                        </div>
+                     </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="wp-block inverse text-center">
+                        <div class="thmb-img">
+                            <img src="images/clients/genoma.png" alt="" class="cliente">
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="wp-block inverse text-center">
+                        <div class="thmb-img">
+                            <img src="images/clients/crer.png" alt="" class="cliente">
+                        </div>   
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="wp-block inverse text-center">
+                        <div class="thmb-img">
+                            <img src="images/clients/farma.png" alt="" class="cliente">
+                        </div>   
+                    </div>
+                </div>
+
+                <!-- <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="wp-block inverse text-center">
+                        <div class="thmb-img">
+                            <img src="images/clients/bunge.png" alt="" class="cliente">
+                        </div>   
+                    </div>
+                </div> -->
+
+            </div>
+        </div>
+    </div>
+</section>
+
 
 <section class="slice bg-white">
     <div class="wp-section ">
